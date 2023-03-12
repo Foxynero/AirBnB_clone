@@ -6,5 +6,5 @@ AirBnB_clone is a first step towards building your first full web application. T
 
 ## Authors
 
-- **Foster Adu-Gyamfi** - [Foster](https://github.com/Foxynero/)
+- **Foster Adu-Gyamfi** - [Foxynero](https://github.com/Foxynero/)
 - **Asare Felix Adu Gyamfi** - [Flexy](https://github.com/flexywork327/)
