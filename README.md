@@ -9,7 +9,7 @@ AirBnB_clone is a first step towards building your first full web application. T
 - **Foster Adu-Gyamfi** - [Foxynero](https://github.com/Foxynero/)
 - **Asare Felix Adu Gyamfi** - [Flexy](https://github.com/flexywork327/)
 
-<h1 align="center">Holbertonbnb</h1>
+<h1 align="center">hbnb</h1>
 <p align="center">An Airbnb clone.</p>
 
 <p align="center">
